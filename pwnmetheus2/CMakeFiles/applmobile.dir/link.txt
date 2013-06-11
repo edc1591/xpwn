@@ -1,0 +1,2 @@
+/usr/bin/ar cr libapplmobile.a  CMakeFiles/applmobile.dir/AppleMobileDevice.cpp.o
+/usr/bin/ranlib libapplmobile.a

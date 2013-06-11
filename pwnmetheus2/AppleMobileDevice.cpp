@@ -479,7 +479,7 @@ BOOL AppleMobileDevice::Open(void)
 	{
 		int ret;
 
-		if(this->Mode() = kRecoveryMode())
+		if(this->Mode() == kRecoveryMode)
 		{
 			/*IOUSBFindInterfaceRequest interfaceRequest;
 			io_iterator_t iterator;

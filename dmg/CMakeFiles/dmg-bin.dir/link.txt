@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/dmg-bin.dir/dmg.c.o  -o dmg  -L/usr/lib/libz.dylib  -L/Users/evan/desktop/xpwn/common  -L/Users/evan/desktop/xpwn/hfs  libdmg.a /usr/lib/libcrypto.dylib ../hfs/libhfs.a ../common/libcommon.a -lz 

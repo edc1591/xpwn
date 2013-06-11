@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/hdutil.dir/hdutil.c.o  -o hdutil  -L/Users/evan/desktop/xpwn/common  -L/Users/evan/desktop/xpwn/hfs  -L/Users/evan/desktop/xpwn/dmg  ../dmg/libdmg.a ../hfs/libhfs.a ../common/libcommon.a /usr/lib/libcrypto.dylib -lz 

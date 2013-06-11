@@ -1,0 +1,2 @@
+/usr/bin/ar cr libdmg.a  CMakeFiles/dmg.dir/checksum.c.o CMakeFiles/dmg.dir/dmgfile.c.o CMakeFiles/dmg.dir/dmglib.c.o CMakeFiles/dmg.dir/filevault.c.o CMakeFiles/dmg.dir/io.c.o CMakeFiles/dmg.dir/partition.c.o CMakeFiles/dmg.dir/resources.c.o CMakeFiles/dmg.dir/udif.c.o
+/usr/bin/ranlib libdmg.a

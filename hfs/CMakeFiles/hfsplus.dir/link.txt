@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/hfsplus.dir/hfs.c.o  -o hfsplus  -L/usr/lib/libz.dylib  -L/Users/evan/desktop/xpwn/common  libhfs.a ../common/libcommon.a -lz 

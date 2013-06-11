@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+4afac69469b3be2827d74229d89ee3c7 ipsw-patch/CMakeFiles/libXPwn.a
